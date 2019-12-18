@@ -1,0 +1,38 @@
+ @import url("https://fonts.googleapis.com/css?family=Girassol|Roboto+Mono&display=swap")
+ @import url("components/container.css");
+ @import url("components/avatar.css");
+ @import url("components/button.css");
+ @import url("components/banner.css");
+
+ 	
+ body{font-family:"Roboto" sans-serif;
+font-size: 18px; }
+body{background-color:grey }
+ 
+ .demande{color: black; font-size: 35px;font-family: courier}
+.intro{font-family:"courier"; color:black;}
+h2{color: black}
+ 
+ h2,h3 {font-family:"Girassol" sans-serif;
+font-weight: bold;font-size: 40px}
+
+h1 {font-size: 60px;
+font-family:"Girassol" serif;
+font-weight:  bold;text-align: center;
+color:green; background-color: grey}
+p{font-size: 35px}
+a{text-decoration: none;}
+.polu{width: 650px;
+height: 500px;
+border-radius: 10% }
+.equipe{width: 450px;
+height: 350px;
+border-radius: 10% }
+
+.photoa
+.photob
+.photoc
+.photod
+
+
+

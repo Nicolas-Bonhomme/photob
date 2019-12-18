@@ -1,0 +1,5 @@
+.btn-black {color:black;
+background-color:rgb(126,114,84);
+padding: 15px 20px;
+border-radius: 4px;font-weight:bold;}
+.btn-black:hover{background-color:blue;color:green;}
